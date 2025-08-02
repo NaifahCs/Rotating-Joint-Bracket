@@ -6,7 +6,7 @@ This project includes a 3D model of a rotating joint bracket designed using Onsh
 
 - `Part Studio 1.sldprt` SolidWorks source part file
   
-- `Part Studio 1.stl` — 3D printable STL version of the bracket
+- `Part Studio 1.stl`  3D printable STL version of the bracket
   
 
 # ⚙️ How It Works
